@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503520277344",
+    "project_id": "say-sea",
+    "storage_bucket": "say-sea.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503520277344:android:dd90579e10c9bd3220e405",
+        "android_client_info": {
+          "package_name": "com.saysea"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAw5_qU0c-C3exj1D_msJW2o8_-1xPvMI4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
